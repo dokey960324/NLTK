@@ -1,9 +1,9 @@
 # 一、项目简介
-内容：循环抓取豆瓣影评中所有观众对《陈情令》的评论，存储在文本文档中，并运用可视化库--词云对其进行分析。
-目标网站：https://movie.douban.com/subject/27195020/comments?start=
-使用软件：pycharm
-使用 python3.7 版本
-涉及的python类库：requests、lxml、wordcloud、numpy、PIL、jieba
+- 内容：循环抓取豆瓣影评中所有观众对《陈情令》的评论，存储在文本文档中，并运用可视化库--词云对其进行分析。
+- 目标网站：https://movie.douban.com/subject/27195020/comments?start=
+- 使用软件：pycharm
+- 使用 python3.7 版本
+- 涉及的python类库：requests、lxml、wordcloud、numpy、PIL、jieba
 
 
 # 二、具体思路
